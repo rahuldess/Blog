@@ -43,6 +43,8 @@ navbar:
     title: Blog
   - slug : topics
     title: Topics
+  - slug : projects
+    title: Projects
 
 exclude:
   - "gulp"
