@@ -45,6 +45,8 @@ navbar:
     title: Topics
   - slug : projects
     title: Projects
+  - slug : eli5
+    title: Eli5
 
 exclude:
   - "gulp"
